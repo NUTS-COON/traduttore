@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen
+        android:key="Design"
+        android:summary="@string/design_summary"
+        android:title="@string/design_title">
+        <intent android:action="ru.nutscoon.traduttore.SettingDesign"/>
+
+    </PreferenceScreen>
+</PreferenceScreen>

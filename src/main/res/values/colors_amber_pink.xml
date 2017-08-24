@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="primaryAmber">#FFC107</color>
+  <color name="primary_darkAmber">#FFA000</color>
+    <color name="accentAmber">#ff9800</color>
+  <color name="primary_textAmber">#212121</color>
+  <color name="secondary_textAmber">#757575</color>
+</resources>
