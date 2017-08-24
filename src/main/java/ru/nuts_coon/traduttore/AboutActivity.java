@@ -29,7 +29,11 @@ public class AboutActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
-        setTitle(getResources().getString(R.string.action_about));
+        setTitle(getResources().getString(R.string.about));
+
+        textView = (TextView) findViewById(R.id.textView);
+        textView.setMovementMethod(LinkMovementMethod.getInstance());
+
     }
 
     @Override
