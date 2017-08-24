@@ -5,9 +5,10 @@
     <string name="design_summary">Настрой меня полностью</string>
     <string name="offline">Отсутсвует подключение к Интернету</string>
     <string name="author">Created by <b><i>NUTS_COON</i></b></string>
-    <string name="yandex">Переведено сервисом «Яндекс.Переводчик» <br><a href=" http://translate.yandex.ru/"> http://translate.yandex.ru/</a></br></string>
-    <string name="about">Приложение написано с использованием сервиса «Яндекс.Переводчик»
-        <br><a href=" http://translate.yandex.ru/"> http://translate.yandex.ru/</a></br></string>
+    <string name="yandex">Переведено сервисом  «Яндекс.Переводчик»</string>
+    <string name="yandex_link"><a href=" http://translate.yandex.ru/"> http://translate.yandex.ru/</a></string>
+    <string name="about">Приложение написано с использованием сервиса «Яндекс.Переводчик» </string>
+
     <string name="action_about">О приложении</string>
 
 
