@@ -21,18 +21,13 @@ import static ru.nuts_coon.traduttore.MainActivity.Theme;
 
 public class AboutActivity extends AppCompatActivity {
 
-    TextView textView;
-
     @Override
     protected void onCreate( Bundle savedInstanceState) {
         setTheme(Theme(loadColorSetting()));
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
-        setTitle(getResources().getString(R.string.about));
-
-        textView = (TextView) findViewById(R.id.textView);
-        textView.setMovementMethod(LinkMovementMethod.getInstance());
+        setTitle(getResources().getString(R.string.action_about));
 
     }
 
